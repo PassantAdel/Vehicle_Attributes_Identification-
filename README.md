@@ -8,12 +8,12 @@ YOLOv8 Integration: We employ YOLOv8, a state-of-the-art object detection framew
 Multi-attribute Recognition: The model simultaneously identifies multiple attributes, providing comprehensive information about the observed vehicle.
 
 # How it Works
-1.Data Collection: We collected a diverse dataset of vehicles, including different types, colors, damage statuses, speeds, and license plate variations.
-2.Data Preprocessing: The dataset underwent preprocessing to ensure high-quality training data.
-3.Training: We trained the YOLOv8 model using the preprocessed dataset.
-4.Real-time Inference: The trained model is integrated into our system to perform real-time attribute recognition.
-5.User Interface: The user interacts with the system through an easy-to-use interface, providing images or video feeds for analysis.
-6.Display Results: The system displays the recognized attributes for each detected vehicle, providing valuable information to the user.
+1. Data Collection: We collected a diverse dataset of vehicles, including different types, colors, damage statuses, speeds, and license plate variations.
+2. Data Preprocessing: The dataset underwent preprocessing to ensure high-quality training data.
+3. Training: We trained the YOLOv8 model using the preprocessed dataset.
+4. Real-time Inference: The trained model is integrated into our system to perform real-time attribute recognition.
+5. User Interface: The user interacts with the system through an easy-to-use interface, providing images or video feeds for analysis.
+6. Display Results: The system displays the recognized attributes for each detected vehicle, providing valuable information to the user.
 
 # Installation
 Clone this repository: git clone https://github.com/PassantAdel/Vehicle-Attributes-Identification.git
