@@ -16,5 +16,5 @@ Multi-attribute Recognition: The model simultaneously identifies multiple attrib
 6. Display Results: The system displays the recognized attributes for each detected vehicle, providing valuable information to the user.
 
 # Installation
-Clone this repository: git clone https://github.com/PassantAdel/Vehicle-Attributes-Identification.git
-Install the required dependencies: pip install -r requirements.txt
+* Clone this repository: git clone https://github.com/PassantAdel/Vehicle-Attributes-Identification.git
+* Install the required dependencies: pip install -r requirements.txt
