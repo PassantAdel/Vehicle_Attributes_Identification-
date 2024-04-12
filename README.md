@@ -18,4 +18,3 @@ Leveraging the power of computer vision and machine learning, we have implemente
 
 # Installation
 * Clone this repository: git clone https://github.com/PassantAdel/Vehicle-Attributes-Identification.git
-* Install the required dependencies: pip install -r requirements.txt
