@@ -18,3 +18,6 @@ Leveraging the power of computer vision and machine learning, we have implemente
 
 # Installation
 * Clone this repository: git clone https://github.com/PassantAdel/Vehicle-Attributes-Identification.git
+
+https://github.com/PassantAdel/Vehicle_Attributes_Identification-/assets/84942676/b389f2cb-6637-4f83-b2a7-e4a7973f887a
+
