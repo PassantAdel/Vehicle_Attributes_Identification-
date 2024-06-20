@@ -21,6 +21,5 @@ Leveraging the power of computer vision and machine learning, we have implemente
 
 # Results
 https://github.com/PassantAdel/Vehicle_Attributes_Identification-/assets/84942676/b389f2cb-6637-4f83-b2a7-e4a7973f887a
-https://github.com/PassantAdel/Vehicle_Attributes_Identification-/assets/84942676/1baca09a-b51b-4753-a24f-c4fd19e0fce1
 
 
