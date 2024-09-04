@@ -19,11 +19,17 @@ Leveraging the power of computer vision and machine learning, we have implemente
 # Installation
 * Clone this repository: git clone https://github.com/PassantAdel/Vehicle-Attributes-Identification.git
 
-# Results
-https://github.com/PassantAdel/Vehicle_Attributes_Identification-/assets/84942676/b389f2cb-6637-4f83-b2a7-e4a7973f887a
-
-# Results
-https://github.com/PassantAdel/Vehicle_Attributes_Identification-/assets/84942676/1baca09a-b51b-4753-a24f-c4fd19e0fce1
+# Type Model Result
+![typeModelResult](https://github.com/user-attachments/assets/ffddbf28-e2df-4f1f-b18c-2599e652b157)
 
 
+# Plate Number Results
+![plateModel1-result](https://github.com/user-attachments/assets/ec134db5-07b7-4f58-90f1-6683f9e38c4b)
+![platenumber](https://github.com/user-attachments/assets/cdc24039-4db2-4b02-9619-28eaf88b2374)
+![plateModel2-result](https://github.com/user-attachments/assets/6eb977fd-c35b-4689-9d59-9a2d3acb30fa)
 
+# Damage Model
+![damageModelResult](https://github.com/user-attachments/assets/e96de5bd-1367-4176-b511-5a48433ee6f0)
+
+# Color Model
+![coloModelResult](https://github.com/user-attachments/assets/4ce1f6d0-cbbb-41e8-bddb-bdd25c7ca960)
